@@ -1,0 +1,11 @@
+.activity-item {
+  position: absolute;
+  background-color: #eee;
+}
+
+.activity-item .title {
+  font-size: 16pt;
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+}
