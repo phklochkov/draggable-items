@@ -8,8 +8,6 @@ const ActivityItem = ({ activity }) => {
     height: 64
   }
 
-  console.log('left #', left)
-
   return (
     <div style={{
       ...style,

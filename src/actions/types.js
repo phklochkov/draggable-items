@@ -1,0 +1,3 @@
+export const TAB_MAIN_ADD_ITEM = 'TAB_MAIN_ADD_ITEM'
+export const TAB_MAIN_MOVE_ITEM = 'TAB_MAIN_MOVE_ITEM'
+
